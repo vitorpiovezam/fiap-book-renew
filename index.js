@@ -3,7 +3,7 @@ const puppeteer = require("puppeteer");
 (async () => {
   const user = 'YOUR LOGIN GOES HERE'
   const password = 'YOUR PASSWORD GOES HERE'
-  await renewBooks('','160499');
+  await renewBooks(user,password);
 })();
 
 async function renewBooks(rm,password) {
