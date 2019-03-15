@@ -12,7 +12,7 @@ $ npm install
 In index.js, define in consts your login and password as strings.
 ```
  const user = "rm77116"
- const password = 140698
+ const password = "140698"
 ```
 And run /o/
 ```
