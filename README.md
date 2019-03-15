@@ -9,7 +9,8 @@ Install dependecies
 ```
 $ npm install
 ```
-In index.js, pass 2 arguments in renewBooks method, string login and string password from your user on college website.
+In index.js, define in consts your login and password as strings.
 ```
- await renewBooks('78212','986588');
+ const user = "rm77116"
+ const password = 140698
 ```
