@@ -1,0 +1,23 @@
+{
+  "name": "fiap-book-renew",
+  "version": "1.0.0",
+  "description": "js code to automatically renew my books on college website",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorpiovezam/fiap-book-renew.git"
+  },
+  "author": "Vitor Piovezam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorpiovezam/fiap-book-renew/issues"
+  },
+  "homepage": "https://github.com/vitorpiovezam/fiap-book-renew#readme",
+  "dependencies": {
+    "puppeteer": "^1.13.0",
+  }
+}
