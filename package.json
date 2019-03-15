@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/vitorpiovezam/fiap-book-renew#readme",
   "dependencies": {
-    "puppeteer": "^1.13.0",
+    "puppeteer": "^1.13.0"
   }
 }
