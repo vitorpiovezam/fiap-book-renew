@@ -1,4 +1,4 @@
 .vscode/
 node_modules/
-my_books.pdf
+my_books_*
 
